@@ -1,0 +1,12 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .derecho-de-autor{
+    font-size: 15px;
+    color: #aeaeae;
+    padding: 20px;
+}
